@@ -1,0 +1,60 @@
+## Lab 01
+
+- Name:
+- Email:
+
+Instructions for this lab: https://pattonsgirl.github.io/CEG2350/Labs/Lab01/Instructions.html
+
+## Part 1 - GitHub Profile
+
+1. [your_github_username_here's GitHub Profile](FIXTHISURL-https://github.com/your_username)
+
+## Part 2 - Research
+
+| Windows | Linux / Mac | Action |
+| ---     | ---         | ---    |
+| help    | man         | displays instructions on how to use a command        |
+| Get-Location | pwd    | displays the direct path to the user's current location        |
+| Get-ChildItem | ls    | displays the list of the files in the user's current location       |
+| mkdir   | mkdir       | creates a new folder |
+| Set-Location | cd     | changes the location of the user in the storage       |
+| New-Item | touch      | creates a new file       |
+| Move-Item | mv        | moves a file or folder       |
+| Copy-Item | cp        | copies a file or folder and its contents       |
+| Remove-Item | rm      | deletes a file or folder       |
+| notepad.exe | vim     | opens the file in a text editor       |
+
+## Part 3 - Command Line Navigation
+
+My OS is:
+- [x] Windows
+- [] Linux
+- [] Mac
+
+My Command Line Shell is: Powershell
+
+### Navigating My OS on the Command Line
+
+1. Full / absolute path to your user's home directory: $Home
+2. Create a directory named `DirA`: mkdir DirA
+3. Create a directory named `Dir B`: mkdir "Dir B"
+4. Go into `DirA`: cd DirA
+5. Go into `Dir B` from `DirA`: cd . "Dir B"
+6. Return to your user's home directory: cd $Home
+7. Create a file named `test.txt`: ni test.txt
+8. Move the file named `test.txt` into `DirA`: mv test.txt .\onedrive\desktop\DirA
+9. Contents of `test.txt`:
+```
+
+```
+10. Make a copy of `test.txt` named `copy.txt` in `DirA`: cp test.txt copy.txt
+11. View the contents of `DirA`: 
+12. Make a copy of `test.txt` in `Dir B` named `fodder.txt`:
+13. Delete / remove both `fodder.txt` AND `Dir B`:
+
+## Citations
+
+To add citations, provide the site and a summary of what it assisted you with.  If generative AI was used, include which generative AI system was used and what prompt(s) you fed it.
+
+
+
