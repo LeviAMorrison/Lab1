@@ -1,13 +1,13 @@
 ## Lab 01
 
-- Name:
-- Email:
+- Name: Levi Morrison
+- Email: morrison.102@wright.edu
 
 Instructions for this lab: https://pattonsgirl.github.io/CEG2350/Labs/Lab01/Instructions.html
 
 ## Part 1 - GitHub Profile
 
-1. [your_github_username_here's GitHub Profile](FIXTHISURL-https://github.com/your_username)
+1. [your_github_username_here's GitHub Profile] LeviAMorrison (FIXTHISURL-https://github.com/LeviAMorrison)
 
 ## Part 2 - Research
 
@@ -49,7 +49,7 @@ My Command Line Shell is: Powershell
 ```
 10. Make a copy of `test.txt` named `copy.txt` in `DirA`: cp test.txt copy.txt
 11. View the contents of `DirA`: ls
-12. Make a copy of `test.txt` in `Dir B` named `fodder.txt`:
+12. Make a copy of `test.txt` in `Dir B` named `fodder.txt`: cp text.txt ..\"Dir B"\fodder.txt
 13. Delete / remove both `fodder.txt` AND `Dir B`: rm "Dir B"
 
 ## Citations
