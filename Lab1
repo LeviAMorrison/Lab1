@@ -43,14 +43,14 @@ My Command Line Shell is: Powershell
 6. Return to your user's home directory: cd $Home
 7. Create a file named `test.txt`: ni test.txt
 8. Move the file named `test.txt` into `DirA`: mv test.txt .\onedrive\desktop\DirA
-9. Contents of `test.txt`:
+9. Contents of `test.txt`: empty
 ```
 
 ```
 10. Make a copy of `test.txt` named `copy.txt` in `DirA`: cp test.txt copy.txt
-11. View the contents of `DirA`: 
+11. View the contents of `DirA`: ls
 12. Make a copy of `test.txt` in `Dir B` named `fodder.txt`:
-13. Delete / remove both `fodder.txt` AND `Dir B`:
+13. Delete / remove both `fodder.txt` AND `Dir B`: rm "Dir B"
 
 ## Citations
 
